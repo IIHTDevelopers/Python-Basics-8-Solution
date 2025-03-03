@@ -1,0 +1,17 @@
+{
+    "Avengers: Endgame": {
+        "total_seats": 10,
+        "booked_seats": 7,
+        "ticket_price": 250
+    },
+    "Inception": {
+        "total_seats": 8,
+        "booked_seats": 4,
+        "ticket_price": 200
+    },
+    "The Dark Knight": {
+        "total_seats": 12,
+        "booked_seats": 11,
+        "ticket_price": 300
+    }
+}
